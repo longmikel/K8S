@@ -1,4 +1,4 @@
-# Install RKE
+# Cài đặt RKE
 ## kubectl
 ```bash
 curl -LO https://storage.googleapis.com/kubernetes-release/release/`curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt`/bin/linux/amd64/kubectl
@@ -22,7 +22,7 @@ chmod 700 get_helm.sh
 ./get_helm.sh
 ```
 
-# Install Kubernetes Cluster with RKE
+# Triển khai Kubernetes Cluster với RKE
 ## Triển khai với 5 Nodes:
 - 3 Master Nodes - etcd and control plane ( 3 for HA)
 - 2 Worker Nodes
@@ -396,4 +396,4 @@ rke-worker-01   Ready    worker              2d19h   v1.17.6
 rke-worker-02   Ready    worker              2d19h   v1.17.6
 ```
 
-Bạn có thể sao chép tệp này vào $ HOME/.kube/config nếu bạn không có bất kỳ cụm kubernetes nào khác.
+Bạn có thể sao chép tệp này vào $HOME/.kube/config nếu bạn không có bất kỳ cụm kubernetes nào khác.
