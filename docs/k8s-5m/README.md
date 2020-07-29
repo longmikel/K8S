@@ -17,3 +17,7 @@
 - [Kiến trúc và các thành phần trong K8S](../k8s-5m/kientruc-k8s.md/)
 
 - [Cài đặt Kubernetes Cluster với RKE](../k8s-5m/rke-k8s.md/)
+
+- [Cài đặt Rancher 2 on K8S](../k8s-5m/rancher.md/)
+
+- [Tổng quan của lệnh Kubectl](../k8s-5m/kubectl-cheatsheet.md/)
