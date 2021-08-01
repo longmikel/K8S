@@ -1,4 +1,4 @@
-## Ghi chép của về Kubernetes trong 5 phút.
+## Ghi chép Kubernetes trong 5 phút.
 
 ### Tham khảo tại:
 - http://www.cnblogs.com/CloudMan6/tag/Kubernetes/
